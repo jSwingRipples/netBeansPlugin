@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.jswingripples.jsrplugin">
-    <module_version install_time="1462298411341" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1462838113284" last="true" origin="installer" specification_version="1.0">
         <file crc="4204822454" name="config/Modules/org-jswingripples-jsrplugin.xml"/>
-        <file crc="1985709949" name="modules/org-jswingripples-jsrplugin.jar"/>
+        <file crc="844038642" name="modules/org-jswingripples-jsrplugin.jar"/>
     </module_version>
 </module>
