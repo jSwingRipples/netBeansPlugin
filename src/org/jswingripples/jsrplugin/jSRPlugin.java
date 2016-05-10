@@ -28,17 +28,22 @@ public class jSRPlugin {
             int seleccion = abrir.showOpenDialog(null);
             File archivo = abrir.getSelectedFile();
             String ruta = archivo.getAbsolutePath();
-            if (ruta.endsWith(".jar")){
-                ProcessBuilder pb = new ProcessBuilder("java", "-jar", ruta);
+            while (!ruta.endsWith(".jar")){
+                JOptionPane.showMessageDialog(null, "El archivo debe ser un jar");
+                seleccion = abrir.showOpenDialog(null);
+                archivo = abrir.getSelectedFile();
+                ruta = archivo.getAbsolutePath();
+            }
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar", ruta);
             p = pb.start();
             BufferedReader in = new BufferedReader(new InputStreamReader(p.getInputStream()));
             String s = "";
             while ((s = in.readLine()) != null) {
                 System.out.println(s);
             }
-            }else{
-                JOptionPane.showMessageDialog(null, "El archivo es un jar");
-            }
+            
+            
+            
            
 
             

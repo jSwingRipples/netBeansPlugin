@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Monday, May 9, 2016 8:33:15 PM CLT
+>Log Session: Tuesday, May 10, 2016 9:48:51 AM CLT
 >System Info: 
   Product Version         = NetBeans IDE 8.1 (Build 201510222201) (#bb5d68d8a020)
   Operating System        = Windows 7 version 6.1 running on x86
@@ -36,8 +36,6 @@
   Application Classpath   = C:\Program Files\NetBeans 8.1\platform\lib\boot.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-ui.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files (x86)\Java\jdk1.8.0_65\lib\dt.jar;C:\Program Files (x86)\Java\jdk1.8.0_65\lib\tools.jar
   Startup Classpath       = C:\Program Files\NetBeans 8.1\platform\core\asm-all-5.0.1.jar;C:\Program Files\NetBeans 8.1\platform\core\core-base.jar;C:\Program Files\NetBeans 8.1\platform\core\core.jar;C:\Program Files\NetBeans 8.1\platform\core\org-netbeans-libs-asm.jar;C:\Program Files\NetBeans 8.1\platform\core\org-openide-filesystems-compat8.jar;C:\Program Files\NetBeans 8.1\platform\core\org-openide-filesystems.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_zh_CN.jar;C:\Program Files\NetBeans 8.1\nb\core\org-netbeans-upgrader.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_ja.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_pt_BR.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_ru.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_zh_CN.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_ja.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_pt_BR.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_ru.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_zh_CN.jar
 -------------------------------------------------------------------------------
-WARNING [org.netbeans.core.startup.InstalledFileLocatorImpl]: no code name base passed when looking up modules at org.netbeans.upgrade.AutoUpgrade.copyToUserdir(AutoUpgrade.java:307)
-INFO [org.netbeans.upgrade.AutoUpgrade]: Importing from C:\Users\vmolina\AppData\Roaming\NetBeans\7.2 to C:\Users\vmolina\Documents\NetBeansProjects\jSRPlugin\build\testuserdir
 WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:\Program Files\NetBeans 8.1\ and C:\Users\vmolina\Documents\NetBeansProjects\jSRPlugin\build\cluster
 INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Program Files/NetBeans 8.1/
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
@@ -351,7 +349,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.core.nativeaccess/1 [1.30.1 201510222201]
 	org.netbeans.core.io.ui/1 [1.29.1 201510222201]
 	org.netbeans.core.browser.webview/1 [1.14.1.1.1 1 201510222201]
-	org.jswingripples.jsrplugin [1.0 160509]
+	org.jswingripples.jsrplugin [1.0 160510]
 	org.eclipse.mylyn.commons.xmlrpc [3.10.0 3.10.0.20130704-2116]
 	org.eclipse.mylyn.commons.repositories.core [1.2.0 1.2.0.20130704-2116]
 	org.eclipse.mylyn.commons.core [3.10.0 3.10.0.20130926-1710]
@@ -368,17 +366,17 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.apache.commons.codec [1.3.0 1.3.0]
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@1.9.0.20131007-2055 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@1.9.0.20131007-2055 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
@@ -400,6 +398,7 @@ Input arguments:
 	-Dnetbeans.logger.console=true
 	-ea
 	-Djdk.home=C:\Program Files (x86)\Java\jdk1.8.0_65
+	-splash:C:\Users\vmolina\Documents\NetBeansProjects\jSRPlugin\build\testuserdir\var\cache\splash.png
 	-Dnetbeans.home=C:\Program Files\NetBeans 8.1\platform
 	-Dnetbeans.user=C:\Users\vmolina\Documents\NetBeansProjects\jSRPlugin\build\testuserdir
 	-Dnetbeans.default_userdir_root=C:\Users\vmolina\AppData\Roaming\NetBeans
@@ -411,13 +410,11 @@ Input arguments:
 Compiler: HotSpot Client Compiler
 Heap memory usage: initial 32,0MB maximum 494,9MB
 Non heap memory usage: initial 160,0kB maximum -1b
-Garbage collector: Copy (Collections=78 Total time spent=0s)
-Garbage collector: MarkSweepCompact (Collections=3 Total time spent=0s)
-Classes: loaded=6878 total loaded=6885 unloaded 7
+Garbage collector: Copy (Collections=82 Total time spent=0s)
+Garbage collector: MarkSweepCompact (Collections=2 Total time spent=0s)
+Classes: loaded=6252 total loaded=6252 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 4.227.112.960
 INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: Unpaired license 00000006 without any module.
-INFO [null]: Last record repeated 2 more times.
-WARNING [org.netbeans.core.TimableEventQueue]: too much time in AWT thread null
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.
