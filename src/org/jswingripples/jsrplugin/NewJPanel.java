@@ -5,7 +5,9 @@
  */
 package org.jswingripples.jsrplugin;
 
+import java.io.IOException;
 import javax.swing.JOptionPane;
+import org.openide.util.Exceptions;
 
 /**
  *
@@ -60,7 +62,11 @@ public class NewJPanel extends javax.swing.JPanel {
         // TODO add your handling code here:
         //JOptionPane.showMessageDialog(null, "hola baby");
        jSRPlugin plugin=new jSRPlugin();
-       plugin.loadJarJSR();
+        try {
+            plugin.loadJarJSR();
+        } catch (IOException ex) {
+            Exceptions.printStackTrace(ex);
+        }
     }//GEN-LAST:event_jButton1MouseClicked
 
 
