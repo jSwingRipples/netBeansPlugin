@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, August 9, 2016 10:18:18 AM CLT
+>Log Session: Tuesday, August 9, 2016 10:47:51 AM CLT
 >System Info: 
   Product Version         = NetBeans IDE 8.1 (Build 201510222201) (#bb5d68d8a020)
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -36,6 +36,8 @@
   Application Classpath   = C:\Program Files\NetBeans 8.1\platform\lib\boot.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-ui.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files\Java\jdk1.8.0_101\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_101\lib\tools.jar
   Startup Classpath       = C:\Program Files\NetBeans 8.1\platform\core\asm-all-5.0.1.jar;C:\Program Files\NetBeans 8.1\platform\core\core-base.jar;C:\Program Files\NetBeans 8.1\platform\core\core.jar;C:\Program Files\NetBeans 8.1\platform\core\org-netbeans-libs-asm.jar;C:\Program Files\NetBeans 8.1\platform\core\org-openide-filesystems-compat8.jar;C:\Program Files\NetBeans 8.1\platform\core\org-openide-filesystems.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core-base_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\core_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-netbeans-libs-asm_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems-compat8_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_ja.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_ru.jar;C:\Program Files\NetBeans 8.1\platform\core\locale\org-openide-filesystems_zh_CN.jar;C:\Program Files\NetBeans 8.1\nb\core\org-netbeans-upgrader.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_ja.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_pt_BR.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_ru.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\core_nb_zh_CN.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_ja.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_pt_BR.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_ru.jar;C:\Program Files\NetBeans 8.1\nb\core\locale\org-netbeans-upgrader_zh_CN.jar
 -------------------------------------------------------------------------------
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Program Files\NetBeans 8.1\ide\modules\ext\jing.jar took 666 ms
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Program Files\NetBeans 8.1\ide\modules\ext\asm-all-4.0.jar took 729 ms
 WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:\Program Files\NetBeans 8.1\ and D:\Bibliotecas\GitHub\netBeansPlugin\build\cluster
 INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Program Files/NetBeans 8.1/
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.form.nb] use org.jdesktop.layout which is deprecated: Use javax.swing.GroupLayout instead. (In form editor: select Form ... in Inspector; change Layout Generation Style to Standard Java 6 code.)
@@ -542,23 +544,24 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@1.9.0.20131007-2055 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@1.9.0.20131007-2055 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.2.3 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.2.3 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@1.9.0.20131007-2055 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@1.9.0.20131007-2055 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.2.3 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
-INFO [org.openide.awt.Toolbar]: Too long AWTTask: 674 ms for org.openide.awt.MenuBar$MenuBarFolder@5776fc8e(FolderList{MultiFileObject@74d876f7[Menu]})
+INFO [org.openide.awt.Toolbar]: Too long AWTTask: 787 ms for org.openide.awt.MenuBar$MenuBarFolder@50b96f68(FolderList{MultiFileObject@35aeca0f[Menu]})
+INFO [org.openide.awt.Toolbar]: Too long AWTTask: 2.572 ms for org.openide.awt.Toolbar$Folder@68e97f7f(FolderList{MultiFileObject@19bfbd7a[Toolbars/Build]})
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ProjectHooks$ProjectOpenedHookImpl.updateUserBuildPropertiesRef(ProjectHooks.java:573)
 Diagnostic information
 Input arguments:
@@ -588,15 +591,56 @@ Input arguments:
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 32,0MB maximum 716,5MB
 Non heap memory usage: initial 2,4MB maximum -1b
-Garbage collector: PS Scavenge (Collections=39 Total time spent=0s)
+Garbage collector: PS Scavenge (Collections=18 Total time spent=0s)
 Garbage collector: PS MarkSweep (Collections=4 Total time spent=0s)
-Classes: loaded=9275 total loaded=9275 unloaded 0
+Classes: loaded=8688 total loaded=8688 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 4.227.108.864
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2.116 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 21 binary roots took: 955 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: K:\user pc\Documents\ISW\DeploymentTutorial\DeploymentTutorial\src took: 188 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 188 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
 INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: Unpaired license 00000006 without any module.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1.555 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 21 binary roots took: 821 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: K:\user pc\Documents\ISW\DeploymentTutorial\DeploymentTutorial\src took: 248 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 248 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+SEVERE [global]
+java.lang.NullPointerException
+	at org.jswingripples.jsrplugin.jSRPlugin.loadJarJSR(jSRPlugin.java:76)
+	at org.jswingripples.jsrplugin.NewJPanel.jButton1MouseClicked(NewJPanel.java:66)
+	at org.jswingripples.jsrplugin.NewJPanel.access$000(NewJPanel.java:16)
+	at org.jswingripples.jsrplugin.NewJPanel$1.mouseClicked(NewJPanel.java:39)
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270)
+	at java.awt.Component.processMouseEvent(Component.java:6536)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+[catch] at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Program Files\NetBeans 8.1\java\modules\org-netbeans-modules-debugger-jpda-projectsui.jar took 638 ms
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Program Files\NetBeans 8.1\java\modules\org-netbeans-modules-java-j2seproject.jar took 1.052 ms
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.
